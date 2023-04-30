@@ -107,3 +107,10 @@
   <img align="center" style="margin: 10px" height="40" width="50" alt="Docker" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">    
   <img align="center" style="margin: 10px" height="40" width="50" alt="GraphQL" title="GraphQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
 </div>
+
+<br>
+
+<h3> Cursos e certificações recentes: </h3>
+🟢 <a href="https://www.udemy.com/certificate/UC-ad13806c-7162-46d6-a782-f2bbf8b423b4/"> Testes Unitários do Zero com Angular 14 / Jasmine e Karma (5h 30m) </a> <br>
+🔵 (Em Progresso) <a href="https://www.udemy.com/course/the-complete-guide-to-angular-2/"> Angular - The Complete Guide (34h 30m) </a> <br>
+🔵 (Em Progresso) <a href="https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/"> JavaScript e TypeScript: Do básico ao avançado (146h 0m) </a>
