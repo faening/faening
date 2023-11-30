@@ -11,24 +11,16 @@
 <br>
 
 <h3> Sobre mim </h3>
-👩‍🎓 Estudo <a href="http://portal.utfpr.edu.br/cursos/coordenacoes/graduacao/toledo/td-tecnologia-em-sistemas-para-internet" target="_blank">Tecnologia em Sistemas para Internet (TSI) </a> na <a href="http://www.utfpr.edu.br/campus/toledo" target="_blank">UTFPR</a> <br>
-🧑🏻‍💻 Desenvolvedor Frontend com Angular, estudando para ser FullStack <br>
-🙆🏻‍♂️ Curto aprender coisas novas e explorar diferentes áreas no desenvolvimento de software. Por isso, além da minha paixão por web, me aventuro com desenvolvimento Android usando Kotlin <br>
+👩‍🎓 Estudo <a href="https://www.fag.edu.br/engenharia-software" target="_blank">Engenharia de Software na Fundação Assis Gurgacz - FAG  </a><br>
+🧑🏻‍💻 Desenvolvedor Mobile Android <br>
+🙆🏻‍♂️ Curto aprender coisas novas e explorar diferentes áreas no desenvolvimento de software. Por isso, além da minha paixão por desenvolvimento Android usando Kotlin, me aventuro com desenvolvimento web usando Angular <br>
 
 <br>
 
 <h3> Atualmente, trabalho com: </h3>
 <div style="display: inline-block">
-  <img align="center" style="margin: 10px" height="40" width="50" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" style="margin: 10px" height="40" width="50" alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" style="margin: 10px" height="40" width="50" alt="MongoDB" title="MongoDB"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  <img align="center" style="margin: 10px" height="40" width="50" alt="HTML 5" title="HTML 5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" style="margin: 10px" height="40" width="50" alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">  
-  <img align="center" style="margin: 10px" height="40" width="50" alt="Sass" title="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" style="margin: 10px" height="40" width="50" alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" style="margin: 10px" height="40" width="50" alt="Angular" title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" style="margin: 10px" height="40" width="50" alt="Jasmine" title="Jasmine" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg">
-  <img align="center" style="margin: 10px" height="40" width="50" alt="Karma" title="Karma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-original.svg">
+  <img align="center" style="margin: 10px" height="40" width="50" alt="Android" title="Android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
 </div>
 
 <br>
@@ -97,20 +89,3 @@
   </td>
 </tr>
 </table>
-
-<br>
-
-<h3> Quero aprender em 2023 </h3>
-<div style="display: inline-block">
-  <img align="center" style="margin: 10px" height="40" width="50" alt="ESLint" title="ESLint" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
-  <img align="center" style="margin: 10px" height="40" width="50" alt="NestJS" title="NestJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-  <img align="center" style="margin: 10px" height="40" width="50" alt="Docker" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">    
-  <img align="center" style="margin: 10px" height="40" width="50" alt="GraphQL" title="GraphQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-</div>
-
-<br>
-
-<h3> Cursos e certificações recentes: </h3>
-🟢 <a href="https://www.udemy.com/certificate/UC-ad13806c-7162-46d6-a782-f2bbf8b423b4/"> Testes Unitários do Zero com Angular 14 / Jasmine e Karma (5h 30m) </a> <br>
-🔵 (Em Progresso) <a href="https://www.udemy.com/course/the-complete-guide-to-angular-2/"> Angular - The Complete Guide (34h 30m) </a> <br>
-🔵 (Em Progresso) <a href="https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/"> JavaScript e TypeScript: Do básico ao avançado (146h 0m) </a>
